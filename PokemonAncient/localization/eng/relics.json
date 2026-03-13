@@ -1,5 +1,8 @@
 {
-  "REUNICLUS_PACK.title": "Reuniclus Pack",
-  "REUNICLUS_PACK.flavor": "Best at Hugs",
-  "REUNICLUS_PACK.description": "Get [blue]{CardCount}[/blue] Moves used by [gold]Reuniclus[/gold]."
+  "POKEMONANCIENT-STARTER_CHOICE.title": "Starter Choice",
+  "POKEMONANCIENT-STARTER_CHOICE.flavor": "A fine choice! You look like best friends already.",
+  "POKEMONANCIENT-STARTER_CHOICE.description": "Choose 1 of 3 packs of Pokemon cards to add to your deck.",
+  "POKEMONANCIENT-REUNICLUS_PACK.title": "Reuniclus Pack",
+  "POKEMONANCIENT-REUNICLUS_PACK.flavor": "Best at Hugs",
+  "POKEMONANCIENT-REUNICLUS_PACK.description": "Get [blue]{CardCount}[/blue] Moves used by [gold]Reuniclus[/gold]."
 }
