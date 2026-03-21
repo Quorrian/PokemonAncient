@@ -1,7 +1,11 @@
 {
-  "pck_name": "PokemonAncient",
-  "name": "PokemonAncient",
+  "id": "PokemonAncient",
+  "name": "Ancient Professor Oak",
   "author": "Quorry",
-  "description": "This Ancient gifts packs of cards based on the moves of Pokemon.",
-  "version": "v0.0"
+  "description": "This Ancient gifts Pokemon relics, including a starter choice.",
+  "version": "v0.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
 }

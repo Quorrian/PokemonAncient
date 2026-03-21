@@ -1,0 +1,11 @@
+{
+  "POKEMONANCIENT-EXPANDING_FORCE.title": "ExpandingForce",
+  "POKEMONANCIENT-EXPANDING_FORCE.description": "Deal {Damage:diff()} damage{PsychicTerrainAmount:cond:>0? to ALL enemies|}.",
+  "POKEMONANCIENT-PSYCHIC_TERRAIN.title": "PsychicTerrain",
+  "POKEMONANCIENT-PSYCHIC_TERRAIN.description": "Your Attacks that hit ALL enemies deal {PsychicTerrainPower:diff()}% additional damage.",
+  "POKEMONANCIENT-HAMMER_ARM.title": "HammerArm",
+  "POKEMONANCIENT-HAMMER_ARM.description": "Deal {Damage:diff()} damage.\nLose {SpeedPower:diff()} [gold]Speed[/gold].",
+  "POKEMONANCIENT-TRICK_ROOM.title": "TrickRoom",
+  "POKEMONANCIENT-TRICK_ROOM.description": "Invert your [gold]Speed[/gold].\nMove cards from your [gold]Draw Pile[/gold] to your [gold]Discard Pile[/gold] equal to your [gold]Speed[/gold]{InCombat: ({CalculatedCards:diff()})|}.\nDraw {Cards:diff()} {Cards:plural:card|cards}.",
+  "POKEMONANCIENT-TRICK_ROOM.selectionScreenPrompt": "Choose cards to Change Pile."
+}

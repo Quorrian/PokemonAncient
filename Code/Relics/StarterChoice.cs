@@ -6,7 +6,7 @@ using MegaCrit.Sts2.Core.Entities.Relics;
 using MegaCrit.Sts2.Core.Models;
 using MegaCrit.Sts2.Core.Models.RelicPools;
 
-namespace PokemonAncient.relics;
+namespace PokemonAncient.Code.Relics;
 
 
 [Pool(typeof(SharedRelicPool))]

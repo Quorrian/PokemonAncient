@@ -2,8 +2,9 @@ using BaseLib.Utils;
 using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Models;
 using MegaCrit.Sts2.Core.Models.RelicPools;
+using PokemonAncient.Code.Pets;
 
-namespace PokemonAncient.relics;
+namespace PokemonAncient.Code.Relics;
 
 [Pool(typeof(SharedRelicPool))]
 public class ReuniclusPack() : MovePack
@@ -15,7 +16,6 @@ public class ReuniclusPack() : MovePack
 
     protected override async Task SummonPet()
     {
-        // TODO: FIGURE OUT HOW TO MAKE POKEMON AS PETS WITH A SIMPLE SPRITE
-        var creature = await PlayerCmd.AddPet<MegaCrit.Sts2.Core.Models.Monsters.Byrdpip>(Owner);
+        var creature = await PlayerCmd.AddPet<ReuniclusPet>(Owner);
     }
 }
